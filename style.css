@@ -74,6 +74,7 @@ ul{
     color: rgb(255, 255, 255);
     padding: -1px 15px;
     margin: 15px 53px;
+    letter-spacing: 3px;
 }
 @media (max-width: 463px) {
     .a {
