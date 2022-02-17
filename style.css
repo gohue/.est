@@ -12,8 +12,15 @@ body {
   body{
     background: linear-gradient(to right, rgb(0 0 0 / 61%),
     rgb(0 0 0 / 48%)) , url(https://source.unsplash.com/1600x900/?posters);
-    background-position: center;
-    background-size: cover;
+   /*  background-position: center;
+    background-size: cover; */
+      /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 html {
